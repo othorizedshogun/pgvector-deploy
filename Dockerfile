@@ -1,1 +1,1 @@
-FROM pgvector/pgvector
+FROM ankane/pgvector
