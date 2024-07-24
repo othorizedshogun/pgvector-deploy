@@ -1,1 +1,1 @@
-FROM pgcvector/pgvector
+FROM pgvector/pgvector
